@@ -2562,3 +2562,13 @@ venv_hw2/Scripts/python_d.exe
 venv_hw2/Scripts/python.exe
 venv_hw2/Scripts/pythonw_d.exe
 venv_hw2/Scripts/pythonw.exe
+__pycache__/conftest.cpython-312-pytest-7.4.3.pyc
+testsuit_1/__pycache__/conftest.cpython-312-pytest-7.4.3.pyc
+testsuit_1/__pycache__/conftest.cpython-312.pyc
+testsuit_1/__pycache__/test_gui.cpython-312-pytest-7.4.3.pyc
+testsuit_1/__pycache__/test_headless.cpython-312-pytest-7.4.3.pyc
+testsuit_1/test_gui.py
+testsuit_1/test_headless.py
+testsuit_1/test_gui.py
+testsuit_1/test_headless.py
+__pycache__/test_hw_1610.cpython-312-pytest-7.4.3.pyc
